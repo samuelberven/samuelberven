@@ -1,6 +1,6 @@
 ## Hi there! I'm Sam. 👋
-- 🔭 I’m currently working on **React projects leverging Docker and cloud services**
-- 🌱 I’m currently learning **C# and TypeScript**
+- 🔭 I’m currently working on **React projects leverging Docker**
+- 🌱 I’m currently learning **TypeScript and cloud services**
 - 👯 I’m looking to collaborate on large-scale app backends 
 - 📫 How to reach me: [samberven@gmail.com](samberven@gmail.com)
 - 😄 Pronouns: **He/Him**
