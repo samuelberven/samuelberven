@@ -7,7 +7,7 @@
 - ⚡ Fun fact: **I speak Japanese and lived in Japan for seven years.**
 
 ## About Me
-Welcome to my profile! I’m a graduating CS student at Oregon State with a decade of translation experience. Skilled in collaborating with diverse teams and thriving in both onsite and remote environments, I excel at meeting dynamic client requirements and deadlines—much like adhering to coding standards. I’m eager to leverage my communication skills and curiosity in an entry-level SWE role or internship, offering fresh solutions.
+Welcome to my profile! I’m a graduating CS student at Oregon State University with a decade of translation experience. Skilled in collaborating with diverse teams and thriving in both onsite and remote environments, I excel at meeting dynamic client requirements and deadlines—much like adhering to coding standards. I’m eager to leverage my communication skills and curiosity in an entry-level SWE role or internship, offering fresh solutions.
 
 ## 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelberven/)
