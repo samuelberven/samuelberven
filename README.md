@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on large-scale app backends 
 - 📫 How to reach me: [samberven@gmail.com](samberven@gmail.com)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I speak Japanese and lived in Japan for seven years.**
+- ⚡ Fun fact: **I'm also a professoinal Japanese-English translator**
 
 ## About Me
 Welcome to my profile! I’m a graduating CS student at Oregon State University with a decade of translation experience. Skilled in collaborating with diverse teams and thriving in both onsite and remote environments, I excel at meeting dynamic client requirements and deadlines—much like adhering to coding standards. I’m eager to leverage my communication skills and curiosity in an entry-level SWE role or internship, offering fresh solutions.
