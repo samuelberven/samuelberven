@@ -4,10 +4,10 @@
 - 👯 I’m looking to collaborate on large-scale app backends 
 - 📫 How to reach me: [samberven@gmail.com](samberven@gmail.com)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I'm also a professoinal Japanese-English translator**
+- ⚡ Fun fact: **I'm also a professional Japanese-English translator**
 
 ## About Me
-Welcome to my profile! I’m a graduating CS student at Oregon State University with a decade of translation experience. Skilled in collaborating with diverse teams and thriving in both onsite and remote environments, I excel at meeting dynamic client requirements and deadlines—much like adhering to coding standards. I’m eager to leverage my communication skills and curiosity in an entry-level SWE role or internship, offering fresh solutions.
+Welcome to my profile! I'm a new Oregon State Unviersity CS grad with a decade of translation experience. I've worked with all kinds of teams, both in-person and remotely, and am quick to adapt to changing client needs and deadlines-- sort of like adhering to coding standards. I'm excited to bring my communication skills and curiosity to an entry-level software engineering role or internship, where I can contribute fresh ideas and help solve engineering problems.
 
 ## 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelberven/)
@@ -38,6 +38,7 @@ Welcome to my profile! I’m a graduating CS student at Oregon State University 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
 [![Thunder Client](https://img.shields.io/badge/-Thunder_Client-FF6F61?style=for-the-badge&logo=thunderclient&logoColor=white)](https://www.thunderclient.com)
 [![Supabase Edge Functions](https://img.shields.io/badge/-Supabase_Edge_Functions-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/docs/guides/functions)
+[![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com)
 
 <!--
 **samuelberven/samuelberven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
