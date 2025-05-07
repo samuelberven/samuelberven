@@ -8,6 +8,7 @@
 
 ## About Me
 Welcome to my profile! I'm a recent Oregon State University Computer Science graduate with a decade of Japanese-English translation experience. My translation background sharpened my ability to adapt quickly, communicate effectively, and meet tight deadlines—skills that seamlessly translate into software engineering.
+
 I'm eager to apply my problem-solving mindset and technical expertise in an entry-level software engineering or web development role, contributing fresh ideas and building scalable, efficient systems. My passion lies in backend development, cloud computing, and full-stack engineering, and I'm excited to collaborate with teams that value innovation and growth.
 
 ## 🌐 Social
