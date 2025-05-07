@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I'm also a **professional Japanese-English translator**
 
 ## About Me
-Welcome to my profile! I'm a recent Oregon State University Computer Science graduate with a decade of experience in Japanese-English translation. My background in translation has honed my ability to adapt quickly, communicate effectively, and meet tight deadlines—skills that translate seamlessly into software engineering.
-I'm eager to apply my problem-solving mindset and technical expertise in an entry-level software engineering or web development role, where I can contribute fresh ideas and help build scalable, efficient systems. My passion lies in backend development, cloud computing, and full-stack engineering, and I'm excited to collaborate with teams that value innovation and growth.
+Welcome to my profile! I'm a recent Oregon State University Computer Science graduate with a decade of Japanese-English translation experience. My translation background sharpened my ability to adapt quickly, communicate effectively, and meet tight deadlines—skills that seamlessly translate into software engineering.
+I'm eager to apply my problem-solving mindset and technical expertise in an entry-level software engineering or web development role, contributing fresh ideas and building scalable, efficient systems. My passion lies in backend development, cloud computing, and full-stack engineering, and I'm excited to collaborate with teams that value innovation and growth.
 
 ## 🌐 Social
 [![Portfolio](https://img.shields.io/badge/-Portfolio-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://samuelberven.com)
