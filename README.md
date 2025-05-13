@@ -1,4 +1,5 @@
 ## Hi there! I'm Sam.👋
+👋 Software Engineer | Cloud & Backend Developer > Actively building scalable, cloud-deployed backend systems
 - 🔭 I'm working on **migrating existing projects to cloud services**
 - 🌱 I'm currently **improving TypeScript, Docker, and cloud skills**
 - 👯 I'm seeking collaboration on scalable backend systems
